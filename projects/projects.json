@@ -1,0 +1,33 @@
+[
+    {
+      "name": "E-Commerce Web Application | Full Stack",
+      "desc": " Using React, Next.js, Stripe, Sanity, HTML, CSS, Bootstrap, and JavaScript",
+      "image": "ecommerce",
+      "category": "Websites",
+      "links": {
+        "view": "https://www.linkedin.com/in/puni2001/",
+        "code": "https://github.com/Puni2001/E-commerce_Web_Application"
+      }
+    },
+    {
+      "name": "Resturant Web Application | modern UI & UX",
+      "desc": "Using React.js, Next.js, HTML, CSS, Bootstrap and JavaScript.",
+      "image": "resturant",
+      "category": "Websites",
+      "links": {
+        "view": "https://www.linkedin.com/in/puni2001/",
+        "code": "https://github.com/Puni2001/RESTAURANT_WEB_APPLICATION"
+      }
+    },
+    {
+      "name": "Travel Adivsor | Api Based Travel Application",
+      "desc": "Using Rapid API, JavaScript, Node.js and React.",
+      "image": "travel advisor",
+      "category": "Websites",
+      "links": {
+        "view": "https://www.linkedin.com/in/puni2001/",
+        "code": "https://github.com/Puni2001/Travel_Advisor_Api-Based-Travel-Application"
+      }
+    }
+  ]
+  
